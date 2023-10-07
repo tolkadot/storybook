@@ -27,8 +27,6 @@ const Icon = styled(Icons)({
   minWidth: 10,
   marginRight: 10,
   transition: 'transform 0.1s ease-in-out',
-  alignSelf: 'center',
-  display: 'inline-flex',
   verticalAlign: 'inherit',
 });
 
